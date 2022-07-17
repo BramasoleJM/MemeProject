@@ -2,182 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eace295b-70ef-44b6-9a6d-e85cc0407ceb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animation.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Idle.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Idle.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Jump.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Jump.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player_test.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player_test.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Run.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Run.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Demo.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Demo.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/DemoSettings.lighting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/DemoSettings.lighting.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior AI.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior AI.ai.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior EPS.eps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior EPS.eps.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/attack_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/attack_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/attack_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/attack_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/attack_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/attack_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_ATK_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_ATK_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_ATK_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_ATK_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_ATK_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/crouch_ATK_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_001.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_002.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_003.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_004.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_005.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_006.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_007.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_008.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_009.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/die_010.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/dizzy_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/dizzy_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/dizzy_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/dizzy_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/dizzy_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/dizzy_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/flyKick_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/hurt_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/hurt_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/hurt_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/hurt_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/idle_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jumpATK_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jumpATK_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jumpATK_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jumpATK_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jumpATK_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jumpATK_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jump_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jump_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jump_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/jump_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/strike_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/walk_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/win_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/win_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/win_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Dragon Warrior PNG/win_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/dashwind_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_04.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_05.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/explosion_06.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/fireball_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/fireball_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/fireball_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/fireball_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/fireball_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/fireball_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/iblast_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/iblast_01.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/iblast_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/iblast_02.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/iblast_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/iblast_03.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/particlel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/particlel.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/potion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Effects/potion.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Read Me.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Character_test/Read Me.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Bread.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Bread.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Inventory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pickup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pickup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps/IMG_1463.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps/IMG_1463.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/inventory_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/UI/inventory_icon.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Meme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Meme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657987573834</updated>
       <workItem from="1657987581337" duration="321000" />
-      <workItem from="1658029107293" duration="2361000" />
+      <workItem from="1658029107293" duration="7258000" />
     </task>
     <servers />
   </component>
