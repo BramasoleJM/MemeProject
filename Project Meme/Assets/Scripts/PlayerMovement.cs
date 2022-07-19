@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D body;
     private Animator anim;
     private bool grounded;
+
+    public AudioSource music;
     
     // Start is called before the first frame update
     private void Awake()
@@ -37,6 +39,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.Space) && grounded)
         {
             Jump();
+            music.Play();
         }
         
         //Set animator parameters

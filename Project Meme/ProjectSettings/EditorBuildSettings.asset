@@ -8,4 +8,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/Level1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Levels/Video1.unity
+    guid: 1997bc3492a820d4ca33e6e0a607caa7
+  - enabled: 1
+    path: Assets/Levels/Level1.1.unity
+    guid: 957d3dd8a2b253046889a7be3028ff82
+  - enabled: 1
+    path: Assets/Levels/Video1.1.unity
+    guid: a68afec4c5c4e0c4cae03272c94f1bf6
+  - enabled: 1
+    path: Assets/Levels/Level2.unity
+    guid: 944207249ef13754ea186ca4306b8f51
+  - enabled: 1
+    path: Assets/Levels/Video2.unity
+    guid: c89ad356e7a1370428c6e0b6ee38c246
+  - enabled: 1
+    path: Assets/Levels/Level2.1.unity
+    guid: b75f4631e73ebe541b6a221178ee4bd8
+  - enabled: 1
+    path: Assets/Levels/Video2.1.unity
+    guid: 5a62f13ede5ab5b458afaead28a3cab3
+  - enabled: 1
+    path: Assets/Levels/Level3.unity
+    guid: 273ff15aa398562439e05fc17601e7dc
   m_configObjects: {}
