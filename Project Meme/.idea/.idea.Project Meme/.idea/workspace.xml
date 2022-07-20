@@ -2,299 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eace295b-70ef-44b6-9a6d-e85cc0407ceb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Tui.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Tui.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/tui.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/tui.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level1.1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level1.1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level2.1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level2.1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level3.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Level3.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video1.1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video1.1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video2.1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video2.1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Levels/Video2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/let it 蜜雪.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/let it 蜜雪.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/偷完东西.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/偷完东西.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/刚偷到东西.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/刚偷到东西.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子复活_缩混.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子复活_缩混.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子移动_缩混.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子移动_缩混.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子靠近敌人 (mp3cut.net).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子靠近敌人 (mp3cut.net).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子靠近敌人.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/嘎子靠近敌人.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/百石元 - 猪突猛進.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/百石元 - 猪突猛進.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/蜜雪冰城 - 蜜雪冰城主题曲 (官方版).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/蜜雪冰城 - 蜜雪冰城主题曲 (官方版).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/退退退_缩混.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/退退退_缩混.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/饮茶哥_缩混.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/饮茶哥_缩混.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/龙涵雪 - 两只老虎爱跳舞(DJ抖音版).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/龙涵雪 - 两只老虎爱跳舞(DJ抖音版).mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Bread 1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Bread 1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/cloak button.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/cloak button.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/tea button.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/tea button.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LoadSceneAfterVideoEnds.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LoadSceneAfterVideoEnds.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LoadSceneWhenTriggered.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LoadSceneWhenTriggered.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MusicPlayWhenTriggered.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MusicPlayWhenTriggered.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Slot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Slot.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Spawn.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Spawn.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SpecialPickUp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SpecialPickUp.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 1/scene 1 pic 8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/scene 2 pic 9.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 3/scene 3 pic 7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 4/scene 4 pic 9.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/castle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/castle.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 5/scene 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 6/scene 6 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 7/scene 7 pic 7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 111.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 9.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/InnerScene.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/InnerScene/冰城.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/InnerScene/冰城.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/InnerScene/饮茶哥.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/InnerScene/饮茶哥.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/bg1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip10.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip11.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip12.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip13.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip14.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip15.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip6.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip7.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip8.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Paper/rip/rip9.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps/cloak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps/cloak.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps/tea.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/PickUps/tea.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui4.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/TUi/tui5.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UI/按键.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UI/按键.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UI/按键2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/UI/按键2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/冰城.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/冰城.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/冰城原.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/冰城原.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/饮茶哥.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/饮茶哥.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/饮茶哥原.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/饮茶哥原.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/饮茶哥新.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Videos/饮茶哥新.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/CommonBurstAotSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Meme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Meme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Jump.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Jump.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bread.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bread.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Canvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Pickup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pickup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -302,15 +17,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../../2022 Spring Projects/Survive/Assets/Script/Global.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../2022 Spring Projects/Survive/Assets/Script/Move.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadSceneAfterVideoEnds.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadSceneWhenTriggered.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicPlayWhenTriggered.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Slot.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spawn.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -338,7 +44,7 @@
 }</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.5f1c1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="D:\Program Files\Unity\Hub\Editor\2021.3.5f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\Users\dell\Documents\design\2022 Summer Projects\MemeProject\Project Meme&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\dell\Documents\design\2022 Summer Projects\MemeProject\Project Meme" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -377,6 +83,8 @@
       <workItem from="1657987581337" duration="321000" />
       <workItem from="1658029107293" duration="12929000" />
       <workItem from="1658114199971" duration="7406000" />
+      <workItem from="1658297122718" duration="6653000" />
+      <workItem from="1658334189551" duration="672000" />
     </task>
     <servers />
   </component>
