@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b72499343f82f34bb63a1ac80efff30, type: 3}
   m_Name: tea
   m_EditorClassIdentifier: 
-  name: 
-  image: {fileID: 0}
+  name: tea
+  image: {fileID: 21300000, guid: 453ea58b2d89bed4ba309344c287fd85, type: 3}

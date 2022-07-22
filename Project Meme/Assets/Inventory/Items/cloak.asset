@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 14a63ae0bd31e304199c20a0527c3734, type: 3}
-  m_Name: Inventory
+  m_Script: {fileID: 11500000, guid: 7b72499343f82f34bb63a1ac80efff30, type: 3}
+  m_Name: cloak
   m_EditorClassIdentifier: 
-  ItemList:
-  - {fileID: 11400000, guid: 9ae5a3fafc29e0d4ea13b97494e5a4b0, type: 2}
+  name: cloak
+  image: {fileID: 21300000, guid: 8177627a7a845234c81d6a36afb4dec4, type: 3}

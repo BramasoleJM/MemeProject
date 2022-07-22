@@ -1331,10 +1331,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 419870350}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f1d3abbe56b4c0942b5fe53bd3c94bd0, type: 3}
+  m_Script: {fileID: 11500000, guid: 3c2e6a9d0d84dd74ebd231ace66be7b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SceneName: Video2
+  targetItem: {fileID: 11400000, guid: 8461e6fa96e90dd4686d462c31c97920, type: 2}
 --- !u!1 &425767638
 GameObject:
   m_ObjectHideFlags: 0
@@ -1880,11 +1881,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &495362006 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2519866493427418856, guid: 16ce59a7ab3a3e349afe95e3b4c39387, type: 3}
-  m_PrefabInstance: {fileID: 438117973}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &506445222
 GameObject:
   m_ObjectHideFlags: 0
@@ -6425,11 +6421,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1654935763 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2519866494686458745, guid: 16ce59a7ab3a3e349afe95e3b4c39387, type: 3}
-  m_PrefabInstance: {fileID: 438117973}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1669643986
 GameObject:
   m_ObjectHideFlags: 0
@@ -6934,11 +6925,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1764970187 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2519866494961086840, guid: 16ce59a7ab3a3e349afe95e3b4c39387, type: 3}
-  m_PrefabInstance: {fileID: 438117973}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1780059933
 GameObject:
   m_ObjectHideFlags: 0
@@ -7128,11 +7114,6 @@ SortingGroup:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
---- !u!1 &1834117843 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2519866493517841998, guid: 16ce59a7ab3a3e349afe95e3b4c39387, type: 3}
-  m_PrefabInstance: {fileID: 438117973}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1853331544
 GameObject:
   m_ObjectHideFlags: 0
@@ -8793,19 +8774,19 @@ PrefabInstance:
     - target: {fileID: 7987444617351227634, guid: 01188627b257b134aa920472c512a70b, type: 3}
       propertyPath: slots.Array.data[0]
       value: 
-      objectReference: {fileID: 1654935763}
+      objectReference: {fileID: 0}
     - target: {fileID: 7987444617351227634, guid: 01188627b257b134aa920472c512a70b, type: 3}
       propertyPath: slots.Array.data[1]
       value: 
-      objectReference: {fileID: 1834117843}
+      objectReference: {fileID: 0}
     - target: {fileID: 7987444617351227634, guid: 01188627b257b134aa920472c512a70b, type: 3}
       propertyPath: slots.Array.data[2]
       value: 
-      objectReference: {fileID: 1764970187}
+      objectReference: {fileID: 0}
     - target: {fileID: 7987444617351227634, guid: 01188627b257b134aa920472c512a70b, type: 3}
       propertyPath: slots.Array.data[3]
       value: 
-      objectReference: {fileID: 495362006}
+      objectReference: {fileID: 0}
     - target: {fileID: 7987444617351227636, guid: 01188627b257b134aa920472c512a70b, type: 3}
       propertyPath: music
       value: 

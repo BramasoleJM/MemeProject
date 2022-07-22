@@ -7,17 +7,10 @@ using UnityEngine.SceneManagement;
 public class LoadSceneWhenTriggered : MonoBehaviour
 {
     public string SceneName;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
+    // Start is called before the first frame update
+    
 
     private void OnTriggerEnter2D(Collider2D col)
     {
@@ -26,4 +19,5 @@ public class LoadSceneWhenTriggered : MonoBehaviour
             SceneManager.LoadScene(SceneName);
         }
     }
+    
 }

@@ -7,4 +7,5 @@ public class Inventory : ScriptableObject
 {
     // Start is called before the first frame update
     public List<Item> ItemList = new List<Item>();
+    
 }

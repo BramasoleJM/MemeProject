@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
@@ -9,6 +10,8 @@ public class InventoryManager : MonoBehaviour
    public Inventory myBag;
    public GameObject slotGrid;
    public slot slotPrefab;
+
+   public Item select;
 
    void Awake()
    {
@@ -20,6 +23,26 @@ public class InventoryManager : MonoBehaviour
    private void OnEnable()
    {
       RefreshItem();
+      instance.select = new Item();
+   }
+
+   public static void UpdateSelect(int i)
+   {
+      Debug.Log("item "+i+" Selected.");
+      if (instance.myBag.ItemList.Count > i)
+      {
+         instance.select = instance.myBag.ItemList[i];
+      }
+      else
+      {
+         instance.select = new Item();
+      }
+      
+   }
+
+   public static Item getSelect()
+   {
+      return instance.select;
    }
 
    //i can't understand, just copy
@@ -30,6 +53,12 @@ public class InventoryManager : MonoBehaviour
       newItem.slotItem = item;
       newItem.slotImage.sprite = item.image;
       
+   }
+
+   public static void DestroyItem(Item item)
+   {
+      instance.myBag.ItemList.Remove(item);
+      RefreshItem();
    }
 
    public static void RefreshItem()
