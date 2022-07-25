@@ -45,7 +45,7 @@ EditorBuildSettings:
     path: Assets/Levels/Level5.1.unity
     guid: 6e7f9c9109a11764f936f7d68c60e78f
   - enabled: 0
-    path: Assets/Levels/Level6.1.unity
+    path: 
     guid: 53e2a5db03f4759459e7adf46c3b74d5
   - enabled: 1
     path: Assets/Levels/Level6.unity
@@ -95,4 +95,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/Video9.unity
     guid: a37ada607d336f048954b7bccae7e027
+  - enabled: 1
+    path: Assets/Levels/Video9.0.unity
+    guid: feefaf2ff97d4194c9873def8c06eb59
   m_configObjects: {}
