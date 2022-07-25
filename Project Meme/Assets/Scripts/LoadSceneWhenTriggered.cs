@@ -8,7 +8,6 @@ public class LoadSceneWhenTriggered : MonoBehaviour
 {
     public string SceneName;
 
-    
     // Start is called before the first frame update
     
 
