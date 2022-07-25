@@ -14,7 +14,11 @@ public class KunKun : MonoBehaviour
     public Item targetItem3;
     public Item targetItem4;
 
-    public int remain = 4;
+    public bool remain1 = true;
+    public bool remain2 = true;
+    public bool remain3 = true;
+    public bool remain4 = true;
+    
     // Start is called before the first frame update
     void Update()
     {
@@ -22,24 +26,23 @@ public class KunKun : MonoBehaviour
         {
             if (InventoryManager.getSelect() == targetItem1)
             {
-                remain--;
+                remain1 = false;
                 InventoryManager.DestroyItem(targetItem1);
             }else if (InventoryManager.getSelect() == targetItem2)
             {
-                remain--;
+                remain2 = false;
                 InventoryManager.DestroyItem(targetItem2);
             }else if (InventoryManager.getSelect() == targetItem3)
             {
-                remain--;
+                remain3 = false;
                 InventoryManager.DestroyItem(targetItem3);
             }else if (InventoryManager.getSelect() == targetItem4)
             {
-                remain--;
+                remain4 = false;
                 InventoryManager.DestroyItem(targetItem4);
             }
             
-            
-            if(remain == 0)
+            if(!(remain1||remain2||remain3||remain4))
                 SceneManager.LoadScene(SceneName);
         }
     }

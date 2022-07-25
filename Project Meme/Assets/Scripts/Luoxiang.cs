@@ -12,9 +12,11 @@ public class Luoxiang : MonoBehaviour
     public Item targetItem1;
     public Item targetItem2;
 
+    public bool remain1 = true;
+    public bool remain2 = true;
+
     public GameObject Gua;
 
-    public int remain = 2;
     // Start is called before the first frame update
     void Update()
     {
@@ -22,16 +24,16 @@ public class Luoxiang : MonoBehaviour
         {
             if (InventoryManager.getSelect() == targetItem1)
             {
-                remain--;
+                remain1 = false;
                 InventoryManager.DestroyItem(targetItem1);
             }else if (InventoryManager.getSelect() == targetItem2)
             {
-                remain--;
+                remain2 = false;
                 InventoryManager.DestroyItem(targetItem2);
             }
             
             
-            if(remain == 0)
+            if(!(remain1||remain2))
                 Gua.SetActive(true);
         }
     }
