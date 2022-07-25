@@ -2,83 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eace295b-70ef-44b6-9a6d-e85cc0407ceb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun 1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun 1.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun bgm 环绕.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun bgm 环绕.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun10.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun10.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun2.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun3.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun4.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun4.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun5.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun5.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun6.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun6.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun7.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun7.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun8.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun8.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun9.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/ikun/ikun9.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/teacherliu.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/teacherliu/rowrowrowurboat.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/teacherliu/rowrowrowurboat.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/买瓜.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/买瓜/买瓜bgm.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/买瓜/买瓜bgm.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥1.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥2.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥3.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥4.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥4.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥5.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥5.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥6.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/宝箱哥/宝箱哥6.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/新宝岛.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/新宝岛/新宝岛立体声.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/新宝岛/新宝岛立体声.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/杰哥不要了啊啊啊.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/杰哥不要了啊啊啊/杰哥不要了啊啊.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/杰哥不要了啊啊啊/杰哥不要了啊啊.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/罗翔.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/罗翔/罗翔说瓜.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/罗翔/罗翔说瓜.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/鸡汤来啦.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/鸡汤来啦/鸡汤来咯咯.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Music/鸡汤来啦/鸡汤来咯咯.mp3.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Square.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Square.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/tpwhentrigger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/tpwhentrigger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/微信图片_20220725230925.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 2/微信图片_20220725230925.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Videos/94b1739056f634aca394152f22aa5d78.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Videos/94b1739056f634aca394152f22aa5d78.mp4.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project Meme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project Meme/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Inventory/Inventory.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Inventory/Inventory.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level1.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level1.1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level2.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level2.1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level4.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level4.1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level5.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level5.1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level5.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level6.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level7.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level7.1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level8.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level8.1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level7.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level7.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level8.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Levels/Level9.1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level9.1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LoadSceneWhenTriggered.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LoadSceneWhenTriggered.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Environment/scene 8/scene 8 pic 5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level9.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Luoxiang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Luoxiang.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +116,7 @@
       <workItem from="1658480260850" duration="9229000" />
       <workItem from="1658665172913" duration="3737000" />
       <workItem from="1658724246012" duration="5748000" />
+      <workItem from="1658759143548" duration="2130000" />
     </task>
     <servers />
   </component>

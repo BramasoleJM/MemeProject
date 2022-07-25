@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Video;
 
 public class Luoxiang : MonoBehaviour
 {
@@ -16,6 +18,8 @@ public class Luoxiang : MonoBehaviour
     public bool remain2 = true;
 
     public GameObject Gua;
+
+    public GameObject video;
 
     // Start is called before the first frame update
     void Update()
@@ -34,6 +38,8 @@ public class Luoxiang : MonoBehaviour
             
             
             if(!(remain1||remain2))
+//                video.SetActive(true);
+//                video.GetComponent<VideoPlayer>().Play();
                 Gua.SetActive(true);
         }
     }
