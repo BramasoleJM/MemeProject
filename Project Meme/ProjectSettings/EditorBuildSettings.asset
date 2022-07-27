@@ -46,7 +46,7 @@ EditorBuildSettings:
     guid: 6e7f9c9109a11764f936f7d68c60e78f
   - enabled: 0
     path: 
-    guid: 53e2a5db03f4759459e7adf46c3b74d5
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Levels/Level6.unity
     guid: fec0dfd2c9a846349a8d4c143c2a6c88
@@ -77,10 +77,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/Video5.unity
     guid: 3d6dfd948e4da074b8b5656fc30fa0e1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Levels/Video6.1.unity
     guid: e617ed6396db1634a9379de4822be823
-  - enabled: 1
+  - enabled: 0
     path: Assets/Levels/Video6.unity
     guid: e9160739e66d1c64c877938137d009fc
   - enabled: 1

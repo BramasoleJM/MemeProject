@@ -369,6 +369,37 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &276081457 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3391988828509323152, guid: 7eb03508fb53403419e6ce7a8a7fa745, type: 3}
+  m_PrefabInstance: {fileID: 3391988828361489399}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &276081460
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 276081457}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.52, y: 7.54}
+    newSize: {x: 1.52, y: 7.54}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.52, y: 7.54}
+  m_EdgeRadius: 0
 --- !u!1 &330264307
 GameObject:
   m_ObjectHideFlags: 0
@@ -1672,9 +1703,8 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 0.19751894, y: 0.6487675}
-  - {x: 0.62240756, y: 0.40583637}
-  - {x: 1.2408288, y: 0.4466822}
+  - {x: -1.2427838, y: 0.40013495}
+  - {x: 1.2046158, y: 0.35937956}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
